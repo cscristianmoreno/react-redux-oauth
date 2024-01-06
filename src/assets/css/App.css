@@ -1,0 +1,4 @@
+.class_products_container::after {
+    content: "";
+    width: 750px;
+}
